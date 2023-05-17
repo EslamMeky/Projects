@@ -1,0 +1,23 @@
+E:\decition making 2023\decetion making\decetion making\bin\Debug\decetion making.exe.config
+E:\decition making 2023\decetion making\decetion making\bin\Debug\decetion making.exe
+E:\decition making 2023\decetion making\decetion making\bin\Debug\decetion making.pdb
+E:\decition making 2023\decetion making\decetion making\obj\Debug\decetion making.csprojResolveAssemblyReference.cache
+E:\decition making 2023\decetion making\decetion making\obj\Debug\decetion_making.Form1.resources
+E:\decition making 2023\decetion making\decetion making\obj\Debug\decetion_making.Properties.Resources.resources
+E:\decition making 2023\decetion making\decetion making\obj\Debug\decetion making.csproj.GenerateResource.Cache
+E:\decition making 2023\decetion making\decetion making\obj\Debug\decetion making.exe
+E:\decition making 2023\decetion making\decetion making\obj\Debug\decetion making.pdb
+E:\decition making 2023\decetion making\decetion making\obj\Debug\decetion_making.re.resources
+E:\decition making 2023\decetion making\decetion making\obj\Debug\decetion_making.Form2.resources
+F:\year 3.2\decetion making\decetion making\bin\Debug\decetion making.exe.config
+F:\year 3.2\decetion making\decetion making\bin\Debug\decetion making.exe
+F:\year 3.2\decetion making\decetion making\bin\Debug\decetion making.pdb
+F:\year 3.2\decetion making\decetion making\obj\Debug\decetion making.csproj.AssemblyReference.cache
+F:\year 3.2\decetion making\decetion making\obj\Debug\decetion_making.Form1.resources
+F:\year 3.2\decetion making\decetion making\obj\Debug\decetion_making.Form2.resources
+F:\year 3.2\decetion making\decetion making\obj\Debug\decetion_making.Properties.Resources.resources
+F:\year 3.2\decetion making\decetion making\obj\Debug\decetion_making.re.resources
+F:\year 3.2\decetion making\decetion making\obj\Debug\decetion making.csproj.GenerateResource.cache
+F:\year 3.2\decetion making\decetion making\obj\Debug\decetion making.csproj.CoreCompileInputs.cache
+F:\year 3.2\decetion making\decetion making\obj\Debug\decetion making.exe
+F:\year 3.2\decetion making\decetion making\obj\Debug\decetion making.pdb
